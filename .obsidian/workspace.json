@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a195ee8e95bb93e9",
+            "id": "2e6514dbec821402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.py/0.basic/数据结构.md",
+                "file": "1.py/0.basic/输入与输出.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.py/0.basic/数据结构.md",
+                "file": "1.py/0.basic/输入与输出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.py/0.basic/数据结构.md",
+                "file": "1.py/0.basic/输入与输出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.py/0.basic/数据结构.md"
+                "file": "1.py/0.basic/输入与输出.md"
               }
             }
           }
@@ -147,8 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a195ee8e95bb93e9",
+  "active": "5d921d5086168239",
   "lastOpenFiles": [
+    "1.py/0.basic/输入与输出.md",
+    "1.py/0.basic/模块.md",
+    "images/声音模块示例.png",
+    "1.py/0.basic/数据结构.md",
     "1.py/1.pandas/2.基础函数.md"
   ]
 }
