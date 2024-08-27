@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5ea53520332502f",
+            "id": "fea78f71fc32ff9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.py/0.basic/错误与异常.md",
+                "file": "1.py/0.basic/类.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.py/0.basic/错误与异常.md",
+                "file": "1.py/0.basic/类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.py/0.basic/错误与异常.md",
+                "file": "1.py/0.basic/类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.py/0.basic/错误与异常.md"
+                "file": "1.py/0.basic/类.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5ea53520332502f",
+  "active": "fea78f71fc32ff9b",
   "lastOpenFiles": [
+    "1.py/0.basic/类.md",
     "1.py/0.basic/错误与异常.md",
     "1.py/0.basic/输入与输出.md",
     "1.py/0.basic/模块.md",
