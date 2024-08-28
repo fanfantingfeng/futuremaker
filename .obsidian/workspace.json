@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fea78f71fc32ff9b",
+            "id": "13cc285848b16bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.py/0.basic/类.md",
+                "file": "1.py/0.basic/标准库.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.py/0.basic/类.md",
+                "file": "1.py/0.basic/标准库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.py/0.basic/类.md",
+                "file": "1.py/0.basic/标准库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.py/0.basic/类.md"
+                "file": "1.py/0.basic/标准库.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fea78f71fc32ff9b",
+  "active": "13cc285848b16bf0",
   "lastOpenFiles": [
+    "Pasted image 20240828165125.png",
+    "1.py/0.basic/标准库.md",
+    "企业微信截图_17248357202933.png",
     "1.py/0.basic/类.md",
     "1.py/0.basic/错误与异常.md",
     "1.py/0.basic/输入与输出.md",
