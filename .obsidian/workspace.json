@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.basic process.md",
+                "file": "1.py/2.numpy/0.basic process.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.basic process.md",
+                "file": "1.py/2.numpy/0.basic process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.basic process.md",
+                "file": "1.py/2.numpy/0.basic process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.basic process.md"
+                "file": "1.py/2.numpy/0.basic process.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3cb3980f9c173b79",
+  "active": "5d921d5086168239",
   "lastOpenFiles": [
     "1.py/1.advanced/Python+Curses.md",
-    "0.basic process.md",
+    "1.py/2.numpy/0.basic process.md",
     "1.py/2.numpy",
     "1.py/1.advanced",
     "1.py/0.basic/虚拟环境和包.md",
