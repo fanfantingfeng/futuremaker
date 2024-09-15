@@ -147,10 +147,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d921d5086168239",
+  "active": "3cb3980f9c173b79",
   "lastOpenFiles": [
-    "1.py/1.advanced/Python+Curses.md",
+    "1.py/2.numpy/more_for_numpy/sort.md",
     "1.py/2.numpy/0.basic process.md",
+    "1.py/2.numpy/more_for_numpy/Copies and views.md",
+    "1.py/2.numpy/more_for_numpy",
+    "1.py/1.advanced/Python+Curses.md",
     "1.py/2.numpy",
     "1.py/1.advanced",
     "1.py/0.basic/虚拟环境和包.md",
