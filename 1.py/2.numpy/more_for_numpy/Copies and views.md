@@ -35,7 +35,7 @@ y.base is None  #True
 x [[1, 2]] = [[10, 11, 12], [13, 14, 15]]
 y[1] == [10, 11, 12] #False
 ```
-需要关注的是, x\[\[1, 2]] 的赋值 既不是view 也是 copy, 因为这样的赋值是进行数据的替换.
+需要关注的是, x\[\[1, 2]] 的赋值 既不是view 也不是 copy, 因为这样的赋值是进行数据的替换.
 
 ## Other operations
 The ==numpy.reshape()== function creates a view where possible or a copy otherwise.
